@@ -4,7 +4,7 @@ Este projeto foi desenvolvido durante as aulas de Banco de Dados 3 como prática
 
 O objetivo principal do projeto é consolidar os conceitos de banco de dados não relacional, especialmente o uso de MongoDB em ambiente Atlas/console, além de exercitar operações básicas de persistência e consulta em documentos JSON-like.
 
-## 🚀 Visão geral
+## 👀 Visão geral
 
 O repositório contém um script JavaScript de nome `Atividade1.mongodb.js`, responsável por:
 
@@ -17,7 +17,7 @@ O repositório contém um script JavaScript de nome `Atividade1.mongodb.js`, res
 
 A estrutura do projeto é simples, porém didática: uma única atividade de estudo contendo a lógica completa das operações do banco de dados.
 
-## Componentes do projeto
+## 🔗 Componentes do projeto
 
 ### 1. Arquivo principal
 
@@ -74,7 +74,7 @@ O script realiza as seguintes ações:
 
 Essas consultas demonstram a diferença entre projeções e filtros em MongoDB.
 
-## Como executar
+## 🚀 Como executar
 
 Para executar este projeto, você precisa de um ambiente com MongoDB disponível, podendo ser:
 
@@ -126,7 +126,7 @@ Lucas-Alves-Marques-bd3-atv1-Lucas-Alves/
 ├── README.md
 ```
 
-## Objetivos de aprendizagem
+## 🎯 Objetivos de aprendizagem
 
 Este projeto foi desenvolvido com foco em:
 
